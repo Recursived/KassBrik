@@ -1,0 +1,5 @@
+vitesse balle (0-4):2
+taille fenetre (600 - 1000):600
+souris (0), clavier (1):0
+Ia (0/1):0
+Sensibilite clavier (1-50):30
